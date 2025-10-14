@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 flask
 flask-cors
 scikit-learn
 numpy
 pandas
 nltk
+=======
+flask
+flask-cors
+scikit-learn
+numpy
+pandas
+nltk
+>>>>>>> 3e1c994ad986d95e53a5f6698b129c52e7601448
 gunicorn # Web Server Gateway Interface
